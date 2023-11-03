@@ -1,0 +1,42 @@
+﻿  Case.cpp
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Window.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  GameObject.cpp
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Window.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Grid.cpp
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Window.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(126,28): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(126,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(345,28): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(345,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(417,38): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(417,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+  Projet 2048 C++.cpp
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Window.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(90,60): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(90,45): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(105,60): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(105,45): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(120,60): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(120,45): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(135,60): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Projet 2048 C++.cpp(135,45): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+  Window.cpp
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Window.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  test.cpp
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.h(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Window.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Génération de code en cours...
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(331): warning C4715: 'Grid::checkWin' : les chemins de contrôle ne retournent pas tous une valeur
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\Grid.cpp(425): warning C4715: 'Grid::checkLoose' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet 2048 C++.vcxproj -> D:\projet Gtech\C++\2048-C--main\x64\Debug\Projet 2048 C++.exe
